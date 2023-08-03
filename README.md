@@ -1,1 +1,2 @@
 # Binary-Search-Tree
+The Binary Search Tree is a great Data structure for storing and finding data. However, it was a very difficult to grasp the algorithms used to efficiently find the data you are looking for. Writing the methods took some time, but I was able to get it done. I really enjoyed working on this assignment and will continue to review and learn new methods and algorithms.
